@@ -1,0 +1,17 @@
+pkgbase = remote-recorder
+	pkgdesc = Remote recorder.
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1
+	pkgrel = 1
+	url = https://github.com/themartiancompany/remote-recorder
+	arch = any
+	license = AGPL3
+	checkdepends = shellcheck
+	makedepends = make
+	depends = dynssh
+	depends = libcrash-bash
+	depends = rsync
+	source = remote-recorder-ae3e65521e9a5fc0d3abd3973ecee1d0a1865c85.zip::https://github.com/themartiancompany/remote-recorder/archive/ae3e65521e9a5fc0d3abd3973ecee1d0a1865c85.zip
+	validpgpkeys = 97E989E6CF1D2C7F7A41FF9F95684DBE23D6A3E9
+	sha256sums = 1de8e5664359108e987bc8094fafd42cf396969356a9a2ccbf3e469a161cc543
+
+pkgname = remote-recorder
