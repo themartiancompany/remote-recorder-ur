@@ -70,7 +70,7 @@ _tarname="${pkgname}-${_tag}"
     _sum="66ccf9973d2df4b2d4d9c40d09ead1bb97ee29dd7491bb0903f4c2a438d30e2a"
   elif [[ "${_tag_name}" == "commit" ]]; then
     _tar="${_tarname}.zip::${_url}/archive/${_commit}.zip"
-    _sum="1de8e5664359108e987bc8094fafd42cf396969356a9a2ccbf3e469a161cc543"
+    _sum="0a9ea367ca2cf9f5f9f18a18c35cbdc59ea020f61927deaa5cdd9df60fc589d4"
   fi && \
     source+=(
       "${_tar}"
