@@ -6,8 +6,8 @@
 _offline="false"
 _git="false"
 pkgname=remote-recorder
-pkgver=0.0.0.0.0.0.0.0.0.0.0.0.0.1
-_commit="ae3e65521e9a5fc0d3abd3973ecee1d0a1865c85"
+pkgver=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1     
+_commit="ded43999ce909059f0677fab97d79a3da0046609"
 pkgrel=1
 _pkgdesc=(
   "Remote recorder."
